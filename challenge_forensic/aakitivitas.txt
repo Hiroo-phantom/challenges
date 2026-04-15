@@ -1,0 +1,5 @@
+Log aktivitas
+---------------
+2026-03-1 08:10:01 - Opened file: draft.txt
+2026-04-11 08:11:12 - Opened file: report.txt
+2026-04-11 08:13:55 - Opened file: note.txt
